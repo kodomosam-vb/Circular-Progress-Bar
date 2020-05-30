@@ -1,0 +1,15 @@
+C:\Users\kodom\source\repos\Circular Progress Bar\bin\Debug\Circular Progress Bar.exe.config
+C:\Users\kodom\source\repos\Circular Progress Bar\bin\Debug\Circular Progress Bar.exe
+C:\Users\kodom\source\repos\Circular Progress Bar\bin\Debug\Circular Progress Bar.pdb
+C:\Users\kodom\source\repos\Circular Progress Bar\bin\Debug\Circular Progress Bar.xml
+C:\Users\kodom\source\repos\Circular Progress Bar\bin\Debug\CircularProgressBar.dll
+C:\Users\kodom\source\repos\Circular Progress Bar\bin\Debug\WinFormAnimation.dll
+C:\Users\kodom\source\repos\Circular Progress Bar\bin\Debug\CircularProgressBar.xml
+C:\Users\kodom\source\repos\Circular Progress Bar\obj\Debug\Circular_Progress_Bar.Form1.resources
+C:\Users\kodom\source\repos\Circular Progress Bar\obj\Debug\Circular_Progress_Bar.Resources.resources
+C:\Users\kodom\source\repos\Circular Progress Bar\obj\Debug\Circular Progress Bar.vbproj.GenerateResource.cache
+C:\Users\kodom\source\repos\Circular Progress Bar\obj\Debug\Circular Progress Bar.vbproj.CopyComplete
+C:\Users\kodom\source\repos\Circular Progress Bar\obj\Debug\Circular Progress Bar.exe
+C:\Users\kodom\source\repos\Circular Progress Bar\obj\Debug\Circular Progress Bar.xml
+C:\Users\kodom\source\repos\Circular Progress Bar\obj\Debug\Circular Progress Bar.pdb
+C:\Users\kodom\source\repos\Circular Progress Bar\obj\Debug\Circular Progress Bar.vbprojAssemblyReference.cache
